@@ -1,9 +1,6 @@
 import urllib.request
 import time
 price = 99.99
-message = "development"
-print("3" * 6)
-
 
 while price > 4.74:
     time.sleep(3)
@@ -13,5 +10,5 @@ while price > 4.74:
     start = buscar + 2 
     end = start + 4
     price = float(text[start:end])
-    print("!!!!!!!!!!!!, dev")
+    print("!!")
 print("Buy! right now")
