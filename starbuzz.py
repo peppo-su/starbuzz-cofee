@@ -10,5 +10,5 @@ while price > 4.74:
     start = buscar + 2 
     end = start + 4
     price = float(text[start:end])
-    print("!!!!!!!!!!!!")
+    print("!!!!!!!!!!!!, dev")
 print("Buy! right now")
