@@ -1,7 +1,6 @@
 import urllib.request
 import time
 price = 99.99
-mi_name ="yober"
 
 while price > 4.74:
     time.sleep(3)
@@ -13,4 +12,5 @@ while price > 4.74:
     price = float(text[start:end])
     print("!!!!!!!!!!!!, dev")
 print("Buy! right now")
-print(mi_name)
+my_name = "loko"
+
