@@ -2,6 +2,8 @@ import urllib.request
 import time
 price = 99.99
 message = "development"
+print("3" * 6)
+
 
 while price > 4.74:
     time.sleep(3)
