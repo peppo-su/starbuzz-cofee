@@ -14,3 +14,4 @@ while price > 4.74:
 print("Buy! right now")
 my_last_name = "lozano perez"
 my_name = "Lucato frodo"
+my_apodo = "ele"
