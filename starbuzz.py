@@ -15,4 +15,4 @@ print("Buy! right now")
 my_last_name = "lozano perez"
 my_name = "Lucato frodo"
 my_apodo = "ele"
-# retirado del proyecto
+# actualizar estado
