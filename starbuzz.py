@@ -3,7 +3,7 @@ import time
 price = 99.99
 
 while price > 4.74:
-    time.sleep(3)
+    time.sleep(5)
     page = urllib.request.urlopen("file:///C:/Users/Hol/Videos/platzi/git/pj1/hfp/prices-loyalty.html")
     text = page.read().decode("utf8")
     buscar = text.find(">$")
@@ -18,3 +18,4 @@ my_apodo = "ele"
 # actualizar estado
 # realize un cambio en el comentario
 # otro cambio
+# victim of love
