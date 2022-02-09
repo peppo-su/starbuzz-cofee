@@ -12,10 +12,3 @@ while price > 4.74:
     price = float(text[start:end])
     print("!!")
 print("Buy! right now")
-my_last_name = "lozano perez"
-my_name = "Lucato frodo"
-my_apodo = "ele"
-# actualizar estado
-# realize un cambio en el comentario
-# otro cambio
-# victim of love
